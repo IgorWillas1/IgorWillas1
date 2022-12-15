@@ -1,6 +1,6 @@
 ### Olá mundo, me chamo Igor Willas!
 
-## Sou um desenvolvedor full-stack javascript! Um pouco mais sibre mim: :smiley: :metal:
+## Sou um desenvolvedor full-stack javascript! Um pouco mais sobre mim: :smiley: :metal:
 
 - :boy: tenho 22 anos!
 - :blush: Pernambucano arretado!
