@@ -14,23 +14,21 @@
   <img width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg""/>
   <img width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img width="50"  heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>      
-  <img width="50"  heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-  <img width="50"  heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
   <img width="50"  heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 
 ## Tecnologias que estou aprendendo:
 
 <div>
-  <img width="50"  heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img width="50"  heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
 
 ## Minhas estatísticas no git:
 
 <div>
-  <a href="https://github.com/seu-usuário-aqui">
+  <a href="https://github.com/igorwillas1">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorwillas1&layout=compact&langs_count=7&theme=dracula"/>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=igorwillas1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
